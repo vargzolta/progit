@@ -6,8 +6,6 @@ To have some files to actually use version control on, I've used a few basic pyt
 
 ## Things I've already tried in Git
 
----
-
 ### Chapter 2 (Git Basics)
 
 * Initiating a new repository and cloning an existing one
@@ -16,3 +14,6 @@ To have some files to actually use version control on, I've used a few basic pyt
 * Commiting while skipping the staging area
 * Using and formatting commit history
 * Amending a previous commit
+* Unstaging files from the staging area and resotring modified files
+* Adding and getting information of remote repositories
+* Adding an annotated tag to a commit
