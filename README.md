@@ -8,12 +8,12 @@ To have some files to actually use version control on, I've used a few basic pyt
 
 ### Chapter 2 (Git Basics)
 
-* Initiating a new repository and cloning an existing one
-* Adding untracked and modified files to the next commit
-* Commiting using a commit message in both the CLI and the default editor
-* Commiting while skipping the staging area
-* Using and formatting commit history
+* Initiating and cloning a repository
+* Adding files to staging area
+* Commiting
+* Using and formatting git log
 * Amending a previous commit
-* Unstaging files from the staging area and resotring modified files
-* Adding and getting information of remote repositories
-* Adding an annotated tag to a commit
+* Unstaging and restoring files
+* Basic remote functionality
+* Working with tags
+* Creating aliases for commands
