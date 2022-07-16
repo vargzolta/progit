@@ -9,4 +9,4 @@ def print_fibonacci(n):
         current += tmp
 
 
-print_fibonacci(10)
+print_fibonacci(5)
