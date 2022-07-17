@@ -17,3 +17,11 @@ To have some files to actually use version control on, I've used a few basic pyt
 * Basic remote functionality
 * Working with tags
 * Creating aliases for commands
+
+### Chapter 3 (Git branching)
+
+* Add, rename and delete a branch
+* Merge and fast-forward two branches
+* Resolve a merge-conflict
+* Understand and use remote branches
+* Rebase a branch
