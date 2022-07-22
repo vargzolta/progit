@@ -25,3 +25,12 @@ To have some files to actually use version control on, I've used a few basic pyt
 * Resolve a merge-conflict
 * Understand and use remote branches
 * Rebase a branch
+
+### Chapter 4 (Git on the server)
+
+* I have pretty much skipped this chapter, as per the book's recommendation
+* Third party options exist for hosting your repository
+
+### Chapter 5 (Distributed Git)
+
+* Usage of different workflows
